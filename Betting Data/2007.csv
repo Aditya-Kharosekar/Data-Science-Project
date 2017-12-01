@@ -1,5 +1,4 @@
 date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,awayLine
-11/11/1111,Hi,Hi,0.0,0.0,Hi,Hi,0.0,0.0
 09/30/07,TOR,TB,5.0,8.0,A.J. Burnett,Jason Hammel,-176.0,168.0
 09/29/07,TOR,TB,5.0,3.0,Jesse Litsch,Edwin Jackson,-152.0,144.0
 09/28/07,TOR,TB,5.0,4.0,Dustin McGowan,Andy Sonnanstine,-155.0,147.0
@@ -213,9 +212,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/08/07,HOU,CHC,8.0,2.0,Roy Oswalt,Carlos Zambrano,-105.0,-103.0
 08/07/07,HOU,CHC,5.0,2.0,Woody Williams,Sean Marshall,111.0,-119.0
 08/06/07,HOU,CHC,2.0,1.0,Wandy Rodriguez,Rich Hill,107.0,-115.0
-08/05/07,MIA,HOU,6.0,5.0,Scott Olsen,Matt Albers,-125,117.0
-08/04/07,MIA,HOU,6.0,5.0,Sergio Mitre,Jason Jennings,-149,141.0
-08/03/07,MIA,HOU,2.0,8.0,Dontrelle Willis,Roy Oswalt,102,-110.0
+08/05/07,MIA,HOU,6.0,5.0,Scott Olsen,Matt Albers,-125.0,117.0
+08/04/07,MIA,HOU,6.0,5.0,Sergio Mitre,Jason Jennings,-149.0,141.0
+08/03/07,MIA,HOU,2.0,8.0,Dontrelle Willis,Roy Oswalt,102.0,-110.0
 08/02/07,ATL,HOU,11.0,12.0,Jo-Jo Reyes,Woody Williams,-161.0,153.0
 08/01/07,ATL,HOU,12.0,3.0,Buddy Carlyle,Wandy Rodriguez,-156.0,148.0
 07/31/07,ATL,HOU,12.0,4.0,Chuck James,Chris Sampson,-168.0,160.0
@@ -312,8 +311,8 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 04/20/07,MIL,HOU,5.0,6.0,Ben Sheets,Matt Albers,-173.0,165.0
 04/19/07,CIN,HOU,6.0,8.0,Bronson Arroyo,Woody Williams,-156.0,148.0
 04/18/07,CIN,HOU,2.0,7.0,Aaron Harang,Chris Sampson,-145.0,137.0
-04/17/07,HOU,MIA,6.0,1.0,Roy Oswalt,Sergio Mitre,-214.0,196
-04/16/07,HOU,MIA,4.0,3.0,Wandy Rodriguez,Anibal Sanchez,-104.0,-104
+04/17/07,HOU,MIA,6.0,1.0,Roy Oswalt,Sergio Mitre,-214.0,196.0
+04/16/07,HOU,MIA,4.0,3.0,Wandy Rodriguez,Anibal Sanchez,-104.0,-104.0
 04/14/07,PHI,HOU,8.0,5.0,Cole Hamels,Woody Williams,-201.0,185.0
 04/13/07,PHI,HOU,6.0,9.0,Brett Myers,Roy Oswalt,100.0,-108.0
 04/10/07,CHC,HOU,2.0,4.0,Jason Marquis,Chris Sampson,-139.0,131.0
@@ -331,9 +330,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 09/22/07,ATL,MIL,4.0,3.0,John Smoltz,Yovani Gallardo,-158.0,150.0
 09/21/07,ATL,MIL,1.0,4.0,Tim Hudson,Carlos Villanueva,-170.0,162.0
 09/20/07,ATL,MIL,3.0,1.0,Jeff Bennett,Jeff Suppan,-121.0,113.0
-09/19/07,ATL,MIA,5.0,1.0,Chuck James,Daniel Barone,-170.0,162
-09/18/07,ATL,MIA,4.0,3.0,Jo-Jo Reyes,Chris Seddon,-154.0,146
-09/17/07,ATL,MIA,11.0,6.0,John Smoltz,Byung-Hyun Kim,-234.0,216
+09/19/07,ATL,MIA,5.0,1.0,Chuck James,Daniel Barone,-170.0,162.0
+09/18/07,ATL,MIA,4.0,3.0,Jo-Jo Reyes,Chris Seddon,-154.0,146.0
+09/17/07,ATL,MIA,11.0,6.0,John Smoltz,Byung-Hyun Kim,-234.0,216.0
 09/16/07,WAS,ATL,0.0,3.0,Shawn Hill,Tim Hudson,124.0,-132.0
 09/15/07,WAS,ATL,7.0,4.0,Jason Bergmann,Lance Cormier,-105.0,-103.0
 09/14/07,WAS,ATL,5.0,8.0,Matt Chico,Chuck James,126.0,-134.0
@@ -349,9 +348,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 09/02/07,ATL,NYM,2.0,3.0,John Smoltz,Tom Glavine,-158.0,150.0
 09/01/07,ATL,NYM,1.0,5.0,Chuck James,Mike Pelfrey,-140.0,132.0
 08/31/07,ATL,NYM,1.0,7.0,Tim Hudson,John Maine,-142.0,134.0
-08/29/07,MIA,ATL,4.0,7.0,Dontrelle Willis,Buddy Carlyle,-103,-105.0
-08/28/07,MIA,ATL,4.0,3.0,Rick van den Hurk,John Smoltz,160,-168.0
-08/27/07,MIA,ATL,2.0,13.0,Scott Olsen,Lance Cormier,-112,104.0
+08/29/07,MIA,ATL,4.0,7.0,Dontrelle Willis,Buddy Carlyle,-103.0,-105.0
+08/28/07,MIA,ATL,4.0,3.0,Rick van den Hurk,John Smoltz,160.0,-168.0
+08/27/07,MIA,ATL,2.0,13.0,Scott Olsen,Lance Cormier,-112.0,104.0
 08/26/07,STL,ATL,4.0,1.0,Adam Wainwright,Jo-Jo Reyes,-157.0,149.0
 08/25/07,STL,ATL,5.0,4.0,Joel Pineiro,Tim Hudson,134.0,-142.0
 08/24/07,STL,ATL,2.0,7.0,Kip Wells,John Smoltz,136.0,-144.0
@@ -398,9 +397,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/04/07,LAD,ATL,2.0,5.0,Mark Hendrickson,Chuck James,-110.0,102.0
 07/03/07,LAD,ATL,7.0,6.0,Randy Wolf,Kyle Davies,-132.0,124.0
 07/02/07,LAD,ATL,8.0,2.0,Derek Lowe,John Smoltz,-112.0,104.0
-07/01/07,MIA,ATL,6.0,5.0,Dontrelle Willis,Buddy Carlyle,-131,123.0
-06/30/07,MIA,ATL,5.0,6.0,Byung-Hyun Kim,Tim Hudson,141,-149.0
-06/29/07,MIA,ATL,3.0,12.0,Josh Johnson,Chuck James,106,-114.0
+07/01/07,MIA,ATL,6.0,5.0,Dontrelle Willis,Buddy Carlyle,-131.0,123.0
+06/30/07,MIA,ATL,5.0,6.0,Byung-Hyun Kim,Tim Hudson,141.0,-149.0
+06/29/07,MIA,ATL,3.0,12.0,Josh Johnson,Chuck James,106.0,-114.0
 06/27/07,ATL,WAS,13.0,0.0,John Smoltz,Micah Bowie,-206.0,188.0
 06/26/07,ATL,WAS,6.0,2.0,Buddy Carlyle,Mike Bacsik,-153.0,145.0
 06/25/07,ATL,WAS,4.0,1.0,Tim Hudson,Jason Bergmann,-186.0,178.0
@@ -420,10 +419,10 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/09/07,ATL,CHC,9.0,5.0,Tim Hudson,Jason Marquis,-140.0,132.0
 06/08/07,ATL,CHC,1.0,9.0,Lance Cormier,Sean Marshall,100.0,-108.0
 06/07/07,ATL,CHC,1.0,2.0,Chuck James,Rich Hill,103.0,-111.0
-06/06/07,ATL,MIA,4.0,7.0,Kyle Davies,Scott Olsen,-131.0,123
-06/05/07,ATL,MIA,1.0,5.0,John Smoltz,Rick van den Hurk,-243.0,225
-06/05/07,ATL,MIA,3.0,1.0,Buddy Carlyle,Sergio Mitre,-104.0,-104
-06/04/07,ATL,MIA,4.0,6.0,Tim Hudson,Wes Obermueller,-218.0,200
+06/06/07,ATL,MIA,4.0,7.0,Kyle Davies,Scott Olsen,-131.0,123.0
+06/05/07,ATL,MIA,1.0,5.0,John Smoltz,Rick van den Hurk,-243.0,225.0
+06/05/07,ATL,MIA,3.0,1.0,Buddy Carlyle,Sergio Mitre,-104.0,-104.0
+06/04/07,ATL,MIA,4.0,6.0,Tim Hudson,Wes Obermueller,-218.0,200.0
 06/03/07,CHC,ATL,10.0,1.0,Sean Marshall,Lance Cormier,-147.0,139.0
 06/02/07,CHC,ATL,3.0,5.0,Rich Hill,Chuck James,-135.0,127.0
 06/01/07,CHC,ATL,5.0,8.0,Carlos Zambrano,Kyle Davies,-170.0,162.0
@@ -459,9 +458,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 04/29/07,COL,ATL,9.0,7.0,Aaron Cook,Kyle Davies,-145.0,137.0
 04/28/07,COL,ATL,2.0,6.0,Jason Hirsh,John Smoltz,115.0,-123.0
 04/27/07,COL,ATL,7.0,9.0,Jeff Francis,Chuck James,-110.0,102.0
-04/25/07,MIA,ATL,4.0,3.0,Scott Olsen,Tim Hudson,132,-140.0
-04/24/07,MIA,ATL,6.0,11.0,Rick van den Hurk,Mark Redman,113,-121.0
-04/23/07,MIA,ATL,8.0,7.0,Dontrelle Willis,Kyle Davies,-138,130.0
+04/25/07,MIA,ATL,4.0,3.0,Scott Olsen,Tim Hudson,132.0,-140.0
+04/24/07,MIA,ATL,6.0,11.0,Rick van den Hurk,Mark Redman,113.0,-121.0
+04/23/07,MIA,ATL,8.0,7.0,Dontrelle Willis,Kyle Davies,-138.0,130.0
 04/22/07,NYM,ATL,6.0,9.0,Tom Glavine,John Smoltz,-120.0,112.0
 04/21/07,NYM,ATL,7.0,2.0,Oliver Perez,Chuck James,-130.0,122.0
 04/20/07,NYM,ATL,3.0,7.0,Mike Pelfrey,Tim Hudson,-104.0,-104.0
@@ -469,8 +468,8 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 04/18/07,ATL,CHC,8.0,6.0,Kyle Davies,Carlos Zambrano,105.0,-113.0
 04/17/07,WAS,ATL,4.0,6.0,Jerome Williams,John Smoltz,185.0,-201.0
 04/16/07,WAS,ATL,5.0,1.0,Matt Chico,Chuck James,173.0,-181.0
-04/15/07,ATL,MIA,8.0,4.0,Tim Hudson,Scott Olsen,-171.0,163
-04/13/07,ATL,MIA,4.0,11.0,Mark Redman,Dontrelle Willis,-104.0,-104
+04/15/07,ATL,MIA,8.0,4.0,Tim Hudson,Scott Olsen,-171.0,163.0
+04/13/07,ATL,MIA,4.0,11.0,Mark Redman,Dontrelle Willis,-104.0,-104.0
 04/12/07,ATL,WAS,0.0,2.0,John Smoltz,Jason Bergmann,-285.0,265.0
 04/11/07,ATL,WAS,8.0,3.0,Chuck James,Jerome Williams,-270.0,250.0
 04/10/07,ATL,WAS,8.0,0.0,Tim Hudson,Matt Chico,-240.0,222.0
@@ -936,9 +935,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/22/07,ARI,MIL,3.0,2.0,Brandon Webb,Jeff Suppan,-215.0,197.0
 08/21/07,ARI,MIL,4.0,7.0,Livan Hernandez,David Bush,-104.0,-104.0
 08/20/07,ARI,MIL,0.0,9.0,Doug Davis,Yovani Gallardo,-118.0,110.0
-08/16/07,MIA,ARI,4.0,5.0,Daniel Barone,Livan Hernandez,-124,116.0
-08/15/07,MIA,ARI,6.0,9.0,Sergio Mitre,Doug Davis,-121,113.0
-08/14/07,MIA,ARI,14.0,5.0,Dontrelle Willis,Byung-Hyun Kim,-145,137.0
+08/16/07,MIA,ARI,4.0,5.0,Daniel Barone,Livan Hernandez,-124.0,116.0
+08/15/07,MIA,ARI,6.0,9.0,Sergio Mitre,Doug Davis,-121.0,113.0
+08/14/07,MIA,ARI,14.0,5.0,Dontrelle Willis,Byung-Hyun Kim,-145.0,137.0
 08/12/07,ARI,WAS,6.0,7.0,Micah Owings,Mike Bacsik,-145.0,137.0
 08/11/07,ARI,WAS,1.0,0.0,Brandon Webb,John Lannan,-250.0,230.0
 08/10/07,ARI,WAS,11.0,4.0,Livan Hernandez,Matt Chico,-152.0,144.0
@@ -951,10 +950,10 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/02/07,SD,ARI,11.0,0.0,Jake Peavy,Yusmeiro Petit,-221.0,203.0
 08/01/07,SD,ARI,5.0,9.0,David Wells,Micah Owings,-115.0,107.0
 07/31/07,SD,ARI,0.0,4.0,Justin Germano,Brandon Webb,-102.0,-106.0
-07/26/07,ARI,MIA,7.0,4.0,Micah Owings,Byung-Hyun Kim,-130.0,122
-07/25/07,ARI,MIA,7.0,0.0,Brandon Webb,Scott Olsen,-163.0,155
-07/24/07,ARI,MIA,9.0,3.0,Livan Hernandez,Sergio Mitre,100.0,-108
-07/23/07,ARI,MIA,4.0,3.0,Doug Davis,Dontrelle Willis,-110.0,102
+07/26/07,ARI,MIA,7.0,4.0,Micah Owings,Byung-Hyun Kim,-130.0,122.0
+07/25/07,ARI,MIA,7.0,0.0,Brandon Webb,Scott Olsen,-163.0,155.0
+07/24/07,ARI,MIA,9.0,3.0,Livan Hernandez,Sergio Mitre,100.0,-108.0
+07/23/07,ARI,MIA,4.0,3.0,Doug Davis,Dontrelle Willis,-110.0,102.0
 07/22/07,CHC,ARI,0.0,3.0,Sean Marshall,Yusmeiro Petit,-145.0,137.0
 07/21/07,CHC,ARI,2.0,3.0,Rich Hill,Micah Owings,-155.0,147.0
 07/20/07,CHC,ARI,6.0,2.0,Jason Marquis,Brandon Webb,111.0,-119.0
@@ -1232,9 +1231,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/20/07,CLE,PHI,10.0,6.0,CC Sabathia,Jon Lieber,-213.0,195.0
 06/19/07,CLE,PHI,6.0,9.0,Jason Stanford,Kyle Kendrick,-165.0,157.0
 06/18/07,CLE,PHI,10.0,1.0,Cliff Lee,Cole Hamels,106.0,-114.0
-06/14/07,MIA,CLE,2.0,3.0,Dontrelle Willis,Jason Stanford,-119,111.0
-06/13/07,MIA,CLE,3.0,7.0,Byung-Hyun Kim,Cliff Lee,124,-132.0
-06/12/07,MIA,CLE,3.0,0.0,Scott Olsen,Roberto Hernandez,127,-135.0
+06/14/07,MIA,CLE,2.0,3.0,Dontrelle Willis,Jason Stanford,-119.0,111.0
+06/13/07,MIA,CLE,3.0,7.0,Byung-Hyun Kim,Cliff Lee,124.0,-132.0
+06/12/07,MIA,CLE,3.0,0.0,Scott Olsen,Roberto Hernandez,127.0,-135.0
 06/11/07,CLE,SEA,7.0,8.0,Paul Byrd,Cha Seung Baek,-143.0,135.0
 06/10/07,CIN,CLE,1.0,0.0,Aaron Harang,CC Sabathia,146.0,-154.0
 06/09/07,CIN,CLE,6.0,8.0,Matt Belisle,Jeremy Sowers,117.0,-125.0
@@ -1300,9 +1299,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 09/02/07,STL,CIN,3.0,2.0,Braden Looper,Bronson Arroyo,-112.0,104.0
 09/01/07,STL,CIN,11.0,3.0,Adam Wainwright,Phil Dumatrait,-204.0,188.0
 08/31/07,STL,CIN,8.0,5.0,Anthony Reyes,Tom Shearn,-149.0,141.0
-08/23/07,STL,MIA,3.0,11.0,Anthony Reyes,Rick van den Hurk,-174.0,166
-08/22/07,STL,MIA,6.0,4.0,Braden Looper,Scott Olsen,-141.0,133
-08/21/07,STL,MIA,5.0,2.0,Adam Wainwright,Daniel Barone,-177.0,169
+08/23/07,STL,MIA,3.0,11.0,Anthony Reyes,Rick van den Hurk,-174.0,166.0
+08/22/07,STL,MIA,6.0,4.0,Braden Looper,Scott Olsen,-141.0,133.0
+08/21/07,STL,MIA,5.0,2.0,Adam Wainwright,Daniel Barone,-177.0,169.0
 08/20/07,CHC,STL,4.0,6.0,Ted Lilly,Joel Pineiro,-137.0,129.0
 08/18/07,CHC,STL,5.0,3.0,Sean Marshall,Anthony Reyes,-106.0,-102.0
 08/17/07,CHC,STL,2.0,1.0,Rich Hill,Braden Looper,-135.0,127.0
@@ -1329,9 +1328,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/26/07,STL,CHC,11.0,1.0,Braden Looper,Jason Marquis,-109.0,101.0
 07/25/07,STL,CHC,1.0,7.0,Adam Wainwright,Ted Lilly,-107.0,-101.0
 07/24/07,STL,CHC,3.0,4.0,Kip Wells,Carlos Zambrano,122.0,-130.0
-07/18/07,MIA,STL,0.0,6.0,Dontrelle Willis,Kip Wells,-146,138.0
-07/17/07,MIA,STL,4.0,0.0,Rick van den Hurk,Brad Thompson,-113,105.0
-07/16/07,MIA,STL,3.0,5.0,Byung-Hyun Kim,Braden Looper,-112,104.0
+07/18/07,MIA,STL,0.0,6.0,Dontrelle Willis,Kip Wells,-146.0,138.0
+07/17/07,MIA,STL,4.0,0.0,Rick van den Hurk,Brad Thompson,-113.0,105.0
+07/16/07,MIA,STL,3.0,5.0,Byung-Hyun Kim,Braden Looper,-112.0,104.0
 07/15/07,PHI,STL,2.0,10.0,Adam Eaton,Adam Wainwright,-136.0,128.0
 07/14/07,PHI,STL,10.0,4.0,Cole Hamels,Mike Maroth,-205.0,189.0
 07/13/07,PHI,STL,13.0,3.0,Kyle Kendrick,Kip Wells,-147.0,139.0
@@ -1453,10 +1452,10 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/18/07,SD,NYM,5.0,4.0,Greg Maddux,John Maine,103.0,-111.0
 07/17/07,SD,NYM,0.0,7.0,Jake Peavy,Orlando Hernandez,-158.0,150.0
 07/16/07,SD,NYM,5.0,1.0,David Wells,Jorge Sosa,-106.0,-102.0
-07/05/07,SD,MIA,2.0,3.0,Jake Peavy,Byung-Hyun Kim,-236.0,218
-07/04/07,SD,MIA,1.0,0.0,Chris Young,Josh Johnson,-218.0,200
-07/03/07,SD,MIA,4.0,6.0,Greg Maddux,Scott Olsen,-143.0,135
-07/02/07,SD,MIA,3.0,1.0,David Wells,Sergio Mitre,-118.0,110
+07/05/07,SD,MIA,2.0,3.0,Jake Peavy,Byung-Hyun Kim,-236.0,218.0
+07/04/07,SD,MIA,1.0,0.0,Chris Young,Josh Johnson,-218.0,200.0
+07/03/07,SD,MIA,4.0,6.0,Greg Maddux,Scott Olsen,-143.0,135.0
+07/02/07,SD,MIA,3.0,1.0,David Wells,Sergio Mitre,-118.0,110.0
 07/01/07,LAD,SD,5.0,0.0,Chad Billingsley,Justin Germano,-114.0,106.0
 06/30/07,LAD,SD,1.0,3.0,Brad Penny,Jake Peavy,-106.0,-102.0
 06/29/07,LAD,SD,6.0,7.0,Hong-Chih Kuo,Chris Young,102.0,-110.0
@@ -1493,9 +1492,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 05/16/07,SD,CIN,3.0,2.0,Jake Peavy,Bronson Arroyo,-185.0,177.0
 05/15/07,SD,CIN,1.0,2.0,David Wells,Aaron Harang,-113.0,105.0
 05/14/07,SD,CIN,7.0,1.0,Greg Maddux,Matt Belisle,-147.0,138.0
-05/06/07,MIA,SD,1.0,3.0,Scott Olsen,Jake Peavy,133,-141.0
-05/05/07,MIA,SD,6.0,7.0,Sergio Mitre,David Wells,-107,-101.0
-05/04/07,MIA,SD,5.0,4.0,Dontrelle Willis,Greg Maddux,-117,109.0
+05/06/07,MIA,SD,1.0,3.0,Scott Olsen,Jake Peavy,133.0,-141.0
+05/05/07,MIA,SD,6.0,7.0,Sergio Mitre,David Wells,-107.0,-101.0
+05/04/07,MIA,SD,5.0,4.0,Dontrelle Willis,Greg Maddux,-117.0,109.0
 05/02/07,SD,WAS,7.0,3.0,Clay Hensley,Matt Chico,-178.0,170.0
 05/01/07,SD,WAS,3.0,0.0,Chris Young,Shawn Hill,-151.0,143.0
 04/30/07,SD,WAS,2.0,3.0,Jake Peavy,John Patterson,-250.0,230.0
@@ -1529,9 +1528,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 09/19/07,COL,LAD,6.0,5.0,Josh Fogg,Brad Penny,127.0,-135.0
 09/18/07,COL,LAD,9.0,8.0,Mark Redman,David Wells,-120.0,112.0
 09/18/07,COL,LAD,3.0,1.0,Jeff Francis,Chad Billingsley,-119.0,111.0
-09/16/07,COL,MIA,13.0,0.0,Franklin Morales,Scott Olsen,-152.0,144
-09/15/07,COL,MIA,2.0,10.0,Ubaldo Jimenez,Sergio Mitre,-152.0,144
-09/14/07,COL,MIA,6.0,7.0,Josh Fogg,Dontrelle Willis,-130.0,122
+09/16/07,COL,MIA,13.0,0.0,Franklin Morales,Scott Olsen,-152.0,144.0
+09/15/07,COL,MIA,2.0,10.0,Ubaldo Jimenez,Sergio Mitre,-152.0,144.0
+09/14/07,COL,MIA,6.0,7.0,Josh Fogg,Dontrelle Willis,-130.0,122.0
 09/13/07,PHI,COL,12.0,4.0,J.D. Durbin,Jeff Francis,116.0,-124.0
 09/12/07,PHI,COL,0.0,12.0,Kyle Kendrick,Denny M Bautista,-167.0,159.0
 09/11/07,PHI,COL,2.0,8.0,Adam Eaton,Franklin Morales,-139.0,131.0
@@ -1559,9 +1558,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/08/07,COL,MIL,19.0,4.0,Jeff Francis,Yovani Gallardo,-125.0,117.0
 08/07/07,COL,MIL,11.0,4.0,Jason Hirsh,Chris Capuano,-128.0,120.0
 08/06/07,COL,MIL,6.0,2.0,Josh Fogg,Claudio Vargas,-121.0,113.0
-08/02/07,MIA,COL,3.0,4.0,Rick van den Hurk,Jason Hirsh,105,-113.0
-08/01/07,MIA,COL,4.0,3.0,Byung-Hyun Kim,Josh Fogg,-119,111.0
-07/31/07,MIA,COL,3.0,6.0,Scott Olsen,Aaron Cook,-103,-105.0
+08/02/07,MIA,COL,3.0,4.0,Rick van den Hurk,Jason Hirsh,105.0,-113.0
+08/01/07,MIA,COL,4.0,3.0,Byung-Hyun Kim,Josh Fogg,-119.0,111.0
+07/31/07,MIA,COL,3.0,6.0,Scott Olsen,Aaron Cook,-103.0,-105.0
 07/29/07,COL,LAD,9.0,6.0,Ubaldo Jimenez,Chad Billingsley,102.0,-110.0
 07/28/07,COL,LAD,6.0,2.0,Jeff Francis,Brett Tomko,-149.0,141.0
 07/26/07,COL,LAD,4.0,5.0,Rodrigo Lopez,Brad Penny,132.0,-140.0
@@ -1822,9 +1821,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/04/07,NYY,MIN,2.0,6.0,Mike Mussina,Johan Santana,115.0,-123.0
 07/03/07,NYY,MIN,8.0,0.0,Chien-Ming Wang,Carlos Silva,-216.0,198.0
 07/02/07,NYY,MIN,5.0,1.0,Roger Clemens,Boof Bonser,-185.0,177.0
-06/24/07,MIA,MIN,4.0,7.0,Byung-Hyun Kim,Johan Santana,193,-211.0
-06/23/07,MIA,MIN,1.0,11.0,Josh Johnson,Carlos Silva,-103,-105.0
-06/22/07,MIA,MIN,5.0,4.0,Scott Olsen,Boof Bonser,-115,107.0
+06/24/07,MIA,MIN,4.0,7.0,Byung-Hyun Kim,Johan Santana,193.0,-211.0
+06/23/07,MIA,MIN,1.0,11.0,Josh Johnson,Carlos Silva,-103.0,-105.0
+06/22/07,MIA,MIN,5.0,4.0,Scott Olsen,Boof Bonser,-115.0,107.0
 06/20/07,NYM,MIN,2.0,6.0,Oliver Perez,Scott Baker,-178.0,170.0
 06/19/07,NYM,MIN,0.0,9.0,Jorge Sosa,Johan Santana,135.0,-143.0
 06/18/07,NYM,MIN,8.0,1.0,John Maine,Carlos Silva,-162.0,154.0
@@ -1886,9 +1885,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/29/07,PIT,CIN,0.0,8.0,Ian Snell,Aaron Harang,101.0,-109.0
 08/28/07,PIT,CIN,3.0,2.0,Paul Maholm,Bronson Arroyo,-107.0,-101.0
 08/28/07,PIT,CIN,6.0,4.0,Tom Gorzelanny,Elizardo Ramirez,-166.0,158.0
-08/26/07,CIN,MIA,9.0,3.0,Tom Shearn,Daniel Barone,-118.0,110
-08/25/07,CIN,MIA,11.0,7.0,Matt Belisle,Sergio Mitre,-111.0,103
-08/24/07,CIN,MIA,5.0,3.0,Aaron Harang,Dontrelle Willis,-140.0,132
+08/26/07,CIN,MIA,9.0,3.0,Tom Shearn,Daniel Barone,-118.0,110.0
+08/25/07,CIN,MIA,11.0,7.0,Matt Belisle,Sergio Mitre,-111.0,103.0
+08/24/07,CIN,MIA,5.0,3.0,Aaron Harang,Dontrelle Willis,-140.0,132.0
 08/19/07,MIL,CIN,6.0,7.0,Chris Capuano,Aaron Harang,-108.0,100.0
 08/18/07,MIL,CIN,8.0,4.0,Claudio Vargas,Elizardo Ramirez,-144.0,136.0
 08/17/07,MIL,CIN,3.0,8.0,Jeff Suppan,Bronson Arroyo,-120.0,112.0
@@ -1910,10 +1909,10 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/25/07,CIN,MIL,7.0,3.0,Kyle Lohse,Jeff Suppan,-121.0,113.0
 07/24/07,CIN,MIL,3.0,5.0,Matt Belisle,Yovani Gallardo,122.0,-130.0
 07/23/07,CIN,MIL,2.0,1.0,Aaron Harang,Chris Capuano,-127.0,119.0
-07/22/07,MIA,CIN,9.0,3.0,Rick van den Hurk,Bronson Arroyo,101,-109.0
-07/21/07,MIA,CIN,11.0,1.0,Byung-Hyun Kim,Bobby Livingston,-136,128.0
-07/20/07,MIA,CIN,10.0,2.0,Scott Olsen,Kyle Lohse,-142,134.0
-07/19/07,MIA,CIN,5.0,7.0,Sergio Mitre,Matt Belisle,-150,142.0
+07/22/07,MIA,CIN,9.0,3.0,Rick van den Hurk,Bronson Arroyo,101.0,-109.0
+07/21/07,MIA,CIN,11.0,1.0,Byung-Hyun Kim,Bobby Livingston,-136.0,128.0
+07/20/07,MIA,CIN,10.0,2.0,Scott Olsen,Kyle Lohse,-142.0,134.0
+07/19/07,MIA,CIN,5.0,7.0,Sergio Mitre,Matt Belisle,-150.0,142.0
 07/15/07,NYM,CIN,5.0,2.0,Oliver Perez,Kyle Lohse,-180.0,172.0
 07/14/07,NYM,CIN,2.0,1.0,Tom Glavine,Matt Belisle,-178.0,170.0
 07/13/07,NYM,CIN,4.0,8.0,John Maine,Aaron Harang,-146.0,138.0
@@ -1970,10 +1969,10 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/23/07,SF,CHC,4.0,1.0,Matt Cain,Carlos Zambrano,106.0,-114.0
 08/22/07,SF,CHC,2.0,4.0,Barry Zito,Rich Hill,-103.0,-105.0
 08/21/07,SF,CHC,1.0,5.0,Tim Lincecum,Jason Marquis,-146.0,138.0
-08/20/07,MIA,SF,7.0,8.0,Sergio Mitre,Russ Ortiz,-177,169.0
-08/19/07,MIA,SF,5.0,6.0,Dontrelle Willis,Noah Lowry,-142,134.0
-08/18/07,MIA,SF,3.0,4.0,Rick van den Hurk,Matt Cain,111,-119.0
-08/17/07,MIA,SF,0.0,3.0,Scott Olsen,Barry Zito,-132,124.0
+08/20/07,MIA,SF,7.0,8.0,Sergio Mitre,Russ Ortiz,-177.0,169.0
+08/19/07,MIA,SF,5.0,6.0,Dontrelle Willis,Noah Lowry,-142.0,134.0
+08/18/07,MIA,SF,3.0,4.0,Rick van den Hurk,Matt Cain,111.0,-119.0
+08/17/07,MIA,SF,0.0,3.0,Scott Olsen,Barry Zito,-132.0,124.0
 08/13/07,PIT,SF,3.0,10.0,Shane Youman,Noah Lowry,101.0,-109.0
 08/13/07,PIT,SF,3.0,1.0,Paul Maholm,Matt Cain,111.0,-119.0
 08/12/07,SF,PIT,0.0,5.0,Barry Zito,Tom Gorzelanny,-104.0,-104.0
@@ -1986,9 +1985,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/02/07,LAD,SF,2.0,4.0,Brett Tomko,Barry Zito,-116.0,108.0
 08/01/07,LAD,SF,6.0,4.0,Mark Hendrickson,Tim Lincecum,111.0,-119.0
 07/31/07,LAD,SF,1.0,3.0,Brad Penny,Noah Lowry,-154.0,146.0
-07/29/07,SF,MIA,5.0,8.0,Matt Morris,Sergio Mitre,-110.0,102
-07/28/07,SF,MIA,4.0,3.0,Matt Cain,Dontrelle Willis,-131.0,123
-07/27/07,SF,MIA,12.0,10.0,Barry Zito,Rick van den Hurk,-126.0,118
+07/29/07,SF,MIA,5.0,8.0,Matt Morris,Sergio Mitre,-110.0,102.0
+07/28/07,SF,MIA,4.0,3.0,Matt Cain,Dontrelle Willis,-131.0,123.0
+07/27/07,SF,MIA,12.0,10.0,Barry Zito,Rick van den Hurk,-126.0,118.0
 07/22/07,MIL,SF,7.0,5.0,Claudio Vargas,Barry Zito,-130.0,122.0
 07/21/07,MIL,SF,0.0,8.0,David Bush,Tim Lincecum,-116.0,108.0
 07/20/07,MIL,SF,4.0,8.0,Jeff Suppan,Noah Lowry,-140.0,132.0
@@ -2055,9 +2054,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/24/07,TB,LAD,9.0,4.0,Edwin Jackson,Hong-Chih Kuo,120.0,-130.0
 06/23/07,TB,LAD,4.0,3.0,Scott Kazmir,Randy Wolf,-130.0,122.0
 06/22/07,TB,LAD,3.0,6.0,Andy Sonnanstine,Derek Lowe,119.0,-127.0
-06/10/07,MIA,TB,4.0,9.0,Rick van den Hurk,Andy Sonnanstine,-114,106.0
-06/09/07,MIA,TB,2.0,7.0,Dontrelle Willis,James Shields,-103,-105.0
-06/08/07,MIA,TB,14.0,8.0,Byung-Hyun Kim,J.P. Howell,-123,115.0
+06/10/07,MIA,TB,4.0,9.0,Rick van den Hurk,Andy Sonnanstine,-114.0,106.0
+06/09/07,MIA,TB,2.0,7.0,Dontrelle Willis,James Shields,-103.0,-105.0
+06/08/07,MIA,TB,14.0,8.0,Byung-Hyun Kim,J.P. Howell,-123.0,115.0
 06/04/07,TB,KC,4.0,2.0,James Shields,Gil Meche,-156.0,148.0
 06/03/07,TB,KC,5.0,1.0,J.P. Howell,Scott Elarton,-159.0,151.0
 06/02/07,TB,KC,4.0,9.0,Edwin Jackson,Odalis Perez,-128.0,120.0
@@ -2067,9 +2066,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 05/24/07,TB,SEA,13.0,12.0,Jae Seo,Horacio Ramirez,105.0,-113.0
 05/23/07,TB,SEA,1.0,5.0,Casey Fossum,Miguel Batista,106.0,-114.0
 05/22/07,TB,SEA,2.0,5.0,Scott Kazmir,Jarrod Washburn,-113.0,105.0
-05/20/07,TB,MIA,3.0,4.0,James Shields,Sergio Mitre,-143.0,135
-05/19/07,TB,MIA,2.0,7.0,Jae Seo,Dontrelle Willis,124.0,-132
-05/18/07,TB,MIA,4.0,8.0,Edwin Jackson,Byung-Hyun Kim,-131.0,123
+05/20/07,TB,MIA,3.0,4.0,James Shields,Sergio Mitre,-143.0,135.0
+05/19/07,TB,MIA,2.0,7.0,Jae Seo,Dontrelle Willis,124.0,-132.0
+05/18/07,TB,MIA,4.0,8.0,Edwin Jackson,Byung-Hyun Kim,-131.0,123.0
 04/24/07,TB,NYY,6.0,4.0,Scott Kazmir,Chien-Ming Wang,137.0,-145.0
 04/23/07,TB,NYY,10.0,8.0,Casey Fossum,Kei Igawa,148.0,-156.0
 04/05/07,NYY,TB,6.0,7.0,Andy Pettitte,Jae Seo,-316.0,286.0
@@ -2103,9 +2102,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/24/07,MIL,KC,3.0,4.0,Yovani Gallardo,Odalis Perez,-175.0,167.0
 06/23/07,MIL,KC,7.0,1.0,David Bush,Brian Bannister,-149.0,141.0
 06/22/07,MIL,KC,11.0,6.0,Jeff Suppan,Jorge De La Rosa,-158.0,150.0
-06/17/07,KC,MIA,5.0,4.0,Brian Bannister,Scott Olsen,-114.0,106
-06/16/07,KC,MIA,8.0,9.0,Jorge De La Rosa,Rick van den Hurk,-120.0,112
-06/15/07,KC,MIA,6.0,2.0,Gil Meche,Sergio Mitre,-113.0,105
+06/17/07,KC,MIA,5.0,4.0,Brian Bannister,Scott Olsen,-114.0,106.0
+06/16/07,KC,MIA,8.0,9.0,Jorge De La Rosa,Rick van den Hurk,-120.0,112.0
+06/15/07,KC,MIA,6.0,2.0,Gil Meche,Sergio Mitre,-113.0,105.0
 06/10/07,KC,PHI,17.0,5.0,Jorge De La Rosa,Jamie Moyer,114.0,-122.0
 06/09/07,KC,PHI,0.0,4.0,Gil Meche,Jon Lieber,-106.0,-102.0
 06/08/07,KC,PHI,8.0,4.0,Scott Elarton,Freddy Garcia,137.0,-145.0
@@ -2140,9 +2139,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/18/07,LAD,PHI,5.0,4.0,Chad Billingsley,Kyle Kendrick,-129.0,121.0
 07/17/07,LAD,PHI,3.0,15.0,Mark Hendrickson,J.D. Durbin,-142.0,134.0
 07/16/07,LAD,PHI,10.0,3.0,Brad Penny,Jamie Moyer,-158.0,150.0
-07/08/07,LAD,MIA,9.0,3.0,Mark Hendrickson,Scott Olsen,-125.0,117
-07/07/07,LAD,MIA,2.0,7.0,Derek Lowe,Sergio Mitre,-157.0,149
-07/06/07,LAD,MIA,5.0,6.0,Chad Billingsley,Dontrelle Willis,-133.0,125
+07/08/07,LAD,MIA,9.0,3.0,Mark Hendrickson,Scott Olsen,-125.0,117.0
+07/07/07,LAD,MIA,2.0,7.0,Derek Lowe,Sergio Mitre,-157.0,149.0
+07/06/07,LAD,MIA,5.0,6.0,Chad Billingsley,Dontrelle Willis,-133.0,125.0
 06/13/07,LAD,NYM,9.0,1.0,Brad Penny,Jorge Sosa,-110.0,102.0
 06/12/07,LAD,NYM,4.0,1.0,Hong-Chih Kuo,John Maine,112.0,-120.0
 06/11/07,LAD,NYM,5.0,3.0,Randy Wolf,Orlando Hernandez,104.0,-112.0
@@ -2159,10 +2158,10 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 05/23/07,LAD,MIL,5.0,1.0,Brad Penny,Chris Capuano,-142.0,134.0
 05/22/07,LAD,MIL,3.0,2.0,Randy Wolf,Ben Sheets,106.0,-114.0
 05/21/07,LAD,MIL,5.0,9.0,Brett Tomko,Jeff Suppan,-111.0,103.0
-05/10/07,MIA,LAD,3.0,0.0,Sergio Mitre,Derek Lowe,125,-133.0
-05/09/07,MIA,LAD,3.0,5.0,Dontrelle Willis,Brett Tomko,-119,111.0
-05/08/07,MIA,LAD,6.0,5.0,Wes Obermueller,Mark Hendrickson,123,-131.0
-05/07/07,MIA,LAD,1.0,6.0,Ricky Nolasco,Brad Penny,127,-135.0
+05/10/07,MIA,LAD,3.0,0.0,Sergio Mitre,Derek Lowe,125.0,-133.0
+05/09/07,MIA,LAD,3.0,5.0,Dontrelle Willis,Brett Tomko,-119.0,111.0
+05/08/07,MIA,LAD,6.0,5.0,Wes Obermueller,Mark Hendrickson,123.0,-131.0
+05/07/07,MIA,LAD,1.0,6.0,Ricky Nolasco,Brad Penny,127.0,-135.0
 04/22/07,LAD,PIT,5.0,7.0,Brett Tomko,Tom Gorzelanny,-123.0,115.0
 04/21/07,LAD,PIT,7.0,3.0,Brad Penny,Ian Snell,-153.0,145.0
 04/20/07,LAD,PIT,10.0,2.0,Randy Wolf,Tony Armas,-178.0,170.0
@@ -2227,9 +2226,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/01/07,PIT,WAS,2.0,3.0,Paul Maholm,Mike Bacsik,-149.0,141.0
 06/30/07,PIT,WAS,7.0,2.0,Tom Gorzelanny,Jason Bergmann,-142.0,134.0
 06/29/07,PIT,WAS,3.0,2.0,Ian Snell,Matt Chico,-170.0,162.0
-06/28/07,MIA,PIT,9.0,7.0,Scott Olsen,Zach Duke,-158,150.0
-06/27/07,MIA,PIT,5.0,7.0,Sergio Mitre,John Van Benschoten,-170,162.0
-06/26/07,MIA,PIT,2.0,3.0,Dontrelle Willis,Paul Maholm,-155,147.0
+06/28/07,MIA,PIT,9.0,7.0,Scott Olsen,Zach Duke,-158.0,150.0
+06/27/07,MIA,PIT,5.0,7.0,Sergio Mitre,John Van Benschoten,-170.0,162.0
+06/26/07,MIA,PIT,2.0,3.0,Dontrelle Willis,Paul Maholm,-155.0,147.0
 06/17/07,PIT,CHW,8.0,7.0,Zach Duke,Javier Vazquez,128.0,-136.0
 06/16/07,PIT,CHW,1.0,6.0,John Van Benschoten,Mark Buehrle,125.0,-133.0
 06/15/07,PIT,CHW,4.0,2.0,Paul Maholm,Jon Garland,118.0,-126.0
@@ -2239,10 +2238,10 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/07/07,WAS,PIT,2.0,3.0,Matt Chico,Ian Snell,132.0,-140.0
 06/06/07,WAS,PIT,6.0,5.0,Micah Bowie,Zach Duke,-112.0,104.0
 06/05/07,WAS,PIT,6.0,7.0,Mike Bacsik,Shawn Chacon,-112.0,104.0
-05/17/07,PIT,MIA,7.0,2.0,Tony Armas,Ricky Nolasco,-103.0,-105
-05/16/07,PIT,MIA,3.0,4.0,Zach Duke,Scott Olsen,-115.0,107
-05/15/07,PIT,MIA,3.0,9.0,Paul Maholm,Sergio Mitre,-111.0,103
-05/14/07,PIT,MIA,7.0,0.0,Tom Gorzelanny,Dontrelle Willis,-117.0,109
+05/17/07,PIT,MIA,7.0,2.0,Tony Armas,Ricky Nolasco,-103.0,-105.0
+05/16/07,PIT,MIA,3.0,4.0,Zach Duke,Scott Olsen,-115.0,107.0
+05/15/07,PIT,MIA,3.0,9.0,Paul Maholm,Sergio Mitre,-111.0,103.0
+05/14/07,PIT,MIA,7.0,0.0,Tom Gorzelanny,Dontrelle Willis,-117.0,109.0
 05/10/07,CHC,PIT,4.0,6.0,Carlos Zambrano,Paul Maholm,-220.0,202.0
 05/09/07,CHC,PIT,1.0,0.0,Jason Marquis,Tom Gorzelanny,-131.0,123.0
 05/08/07,CHC,PIT,3.0,4.0,Ted Lilly,Ian Snell,-153.0,145.0
@@ -2261,9 +2260,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/24/07,CHW,CHC,0.0,3.0,Jose Contreras,Sean Marshall,-113.0,105.0
 06/23/07,CHW,CHC,1.0,2.0,Javier Vazquez,Rich Hill,-106.0,-102.0
 06/22/07,CHW,CHC,1.0,5.0,Mark Buehrle,Carlos Zambrano,-108.0,100.0
-06/20/07,CHW,MIA,4.0,5.0,Jon Garland,Sergio Mitre,-134.0,126
-06/19/07,CHW,MIA,5.0,7.0,John Danks,Dontrelle Willis,-105.0,-103
-06/18/07,CHW,MIA,10.0,6.0,Jose Contreras,Josh Johnson,-136.0,128
+06/20/07,CHW,MIA,4.0,5.0,Jon Garland,Sergio Mitre,-134.0,126.0
+06/19/07,CHW,MIA,5.0,7.0,John Danks,Dontrelle Willis,-105.0,-103.0
+06/18/07,CHW,MIA,10.0,6.0,Jose Contreras,Josh Johnson,-136.0,128.0
 06/13/07,PHI,CHW,8.0,4.0,Kyle Kendrick,John Danks,-110.0,102.0
 06/12/07,PHI,CHW,7.0,3.0,Cole Hamels,Jose Contreras,-174.0,166.0
 06/11/07,PHI,CHW,3.0,0.0,Adam Eaton,Javier Vazquez,-111.0,103.0
@@ -2290,12 +2289,12 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 09/19/07,WAS,NYM,4.0,8.0,Matt Chico,Mike Pelfrey,149.0,-157.0
 09/18/07,WAS,NYM,9.0,8.0,Joel Hanrahan,John Maine,176.0,-184.0
 09/17/07,WAS,NYM,12.0,4.0,Tim Redding,Brian Lawrence,113.0,-121.0
-09/12/07,MIA,WAS,5.0,4.0,Byung-Hyun Kim,Joel Hanrahan,-145,137.0
-09/11/07,MIA,WAS,13.0,8.0,Chris Seddon,Mike Bacsik,-114,106.0
-09/10/07,MIA,WAS,4.0,5.0,Scott Olsen,Shawn Hill,-109,101.0
-09/05/07,WAS,MIA,6.0,4.0,Tim Redding,Sergio Mitre,-104.0,-104
-09/04/07,WAS,MIA,4.0,3.0,Shawn Hill,Dontrelle Willis,-128.0,120
-09/03/07,WAS,MIA,6.0,3.0,Jason Bergmann,Rick van den Hurk,-111.0,103
+09/12/07,MIA,WAS,5.0,4.0,Byung-Hyun Kim,Joel Hanrahan,-145.0,137.0
+09/11/07,MIA,WAS,13.0,8.0,Chris Seddon,Mike Bacsik,-114.0,106.0
+09/10/07,MIA,WAS,4.0,5.0,Scott Olsen,Shawn Hill,-109.0,101.0
+09/05/07,WAS,MIA,6.0,4.0,Tim Redding,Sergio Mitre,-104.0,-104.0
+09/04/07,WAS,MIA,4.0,3.0,Shawn Hill,Dontrelle Willis,-128.0,120.0
+09/03/07,WAS,MIA,6.0,3.0,Jason Bergmann,Rick van den Hurk,-111.0,103.0
 08/19/07,WAS,NYM,2.0,8.0,Shawn Hill,Orlando Hernandez,108.0,-116.0
 08/18/07,WAS,NYM,4.0,7.0,John Lannan,Oliver Perez,129.0,-137.0
 08/17/07,WAS,NYM,2.0,6.0,Matt Chico,Tom Glavine,143.0,-151.0
@@ -2309,9 +2308,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/26/07,PHI,WAS,6.0,7.0,Adam Eaton,John Lannan,-171.0,163.0
 07/25/07,PHI,WAS,7.0,5.0,Cole Hamels,Matt Chico,-238.0,220.0
 07/24/07,PHI,WAS,4.0,3.0,Kyle Kendrick,Jason Bergmann,-155.0,147.0
-07/15/07,MIA,WAS,5.0,3.0,Scott Olsen,Jason Simontacchi,-148,140.0
-07/14/07,MIA,WAS,5.0,2.0,Sergio Mitre,Matt Chico,-164,156.0
-07/13/07,MIA,WAS,10.0,14.0,Dontrelle Willis,Jason Bergmann,-148,140.0
+07/15/07,MIA,WAS,5.0,3.0,Scott Olsen,Jason Simontacchi,-148.0,140.0
+07/14/07,MIA,WAS,5.0,2.0,Sergio Mitre,Matt Chico,-164.0,156.0
+07/13/07,MIA,WAS,10.0,14.0,Dontrelle Willis,Jason Bergmann,-148.0,140.0
 07/08/07,WAS,MIL,7.0,2.0,Tim Redding,Chris Capuano,142.0,-150.0
 07/07/07,WAS,MIL,5.0,4.0,Jason Simontacchi,Jeff Suppan,122.0,-130.0
 07/06/07,WAS,MIL,2.0,6.0,Mike Bacsik,David Bush,121.0,-129.0
@@ -2319,9 +2318,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 07/04/07,WAS,CHC,6.0,0.0,Matt Chico,Rich Hill,144.0,-152.0
 07/03/07,WAS,CHC,1.0,3.0,Tim Redding,Carlos Zambrano,164.0,-172.0
 07/02/07,WAS,CHC,2.0,7.0,Jason Simontacchi,Ted Lilly,141.0,-149.0
-05/13/07,WAS,MIA,6.0,4.0,Jason Simontacchi,Wes Obermueller,116.0,-124
-05/12/07,WAS,MIA,7.0,3.0,Matt Chico,Ricky Nolasco,124.0,-132
-05/11/07,WAS,MIA,6.0,0.0,Shawn Hill,Scott Olsen,107.0,-115
+05/13/07,WAS,MIA,6.0,4.0,Jason Simontacchi,Wes Obermueller,116.0,-124.0
+05/12/07,WAS,MIA,7.0,3.0,Matt Chico,Ricky Nolasco,124.0,-132.0
+05/11/07,WAS,MIA,6.0,0.0,Shawn Hill,Scott Olsen,107.0,-115.0
 05/09/07,MIL,WAS,3.0,1.0,Claudio Vargas,Jason Bergmann,-179.0,171.0
 05/08/07,MIL,WAS,6.0,4.0,David Bush,Jason Simontacchi,-201.0,185.0
 05/07/07,MIL,WAS,3.0,0.0,Chris Capuano,Matt Chico,-233.0,215.0
@@ -2334,23 +2333,23 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 04/26/07,PHI,WAS,2.0,4.0,Cole Hamels,Shawn Hill,-227.0,209.0
 04/25/07,PHI,WAS,9.0,3.0,Jon Lieber,John Patterson,-191.0,180.0
 04/24/07,PHI,WAS,6.0,3.0,Jamie Moyer,Jason Bergmann,-196.0,183.0
-04/22/07,MIA,WAS,12.0,6.0,Wes Obermueller,Jerome Williams,-131,123.0
-04/21/07,MIA,WAS,9.0,3.0,Anibal Sanchez,Matt Chico,-157,149.0
-04/20/07,MIA,WAS,5.0,6.0,Scott Olsen,Shawn Hill,-140,132.0
+04/22/07,MIA,WAS,12.0,6.0,Wes Obermueller,Jerome Williams,-131.0,123.0
+04/21/07,MIA,WAS,9.0,3.0,Anibal Sanchez,Matt Chico,-157.0,149.0
+04/20/07,MIA,WAS,5.0,6.0,Scott Olsen,Shawn Hill,-140.0,132.0
 04/19/07,WAS,PHI,2.0,4.0,John Patterson,Jamie Moyer,116.0,-124.0
 04/18/07,WAS,PHI,5.0,4.0,Jason Bergmann,Adam Eaton,139.0,-147.0
 04/14/07,NYM,WAS,2.0,6.0,Orlando Hernandez,Shawn Hill,-240.0,222.0
 04/13/07,NYM,WAS,3.0,2.0,Mike Pelfrey,John Patterson,-196.0,183.0
-04/04/07,WAS,MIA,7.0,6.0,Matt Chico,Anibal Sanchez,138.0,-146
-04/03/07,WAS,MIA,3.0,9.0,Shawn Hill,Scott Olsen,115.0,-123
-04/02/07,WAS,MIA,2.0,9.0,John Patterson,Dontrelle Willis,-107.0,-101
-09/30/07,NYM,MIA,1.0,8.0,Tom Glavine,Dontrelle Willis,-206.0,188
-09/29/07,NYM,MIA,13.0,0.0,John Maine,Chris Seddon,-270.0,250
-09/28/07,NYM,MIA,4.0,7.0,Oliver Perez,Byung-Hyun Kim,-240.0,222
-09/23/07,MIA,NYM,6.0,7.0,Chris Seddon,John Maine,157,-165.0
-09/22/07,MIA,NYM,2.0,7.0,Byung-Hyun Kim,Oliver Perez,146,-154.0
-09/21/07,MIA,NYM,6.0,9.0,Scott Olsen,Pedro Martinez,148,-156.0
-09/20/07,MIA,NYM,8.0,7.0,Dontrelle Willis,Tom Glavine,136,-144.0
+04/04/07,WAS,MIA,7.0,6.0,Matt Chico,Anibal Sanchez,138.0,-146.0
+04/03/07,WAS,MIA,3.0,9.0,Shawn Hill,Scott Olsen,115.0,-123.0
+04/02/07,WAS,MIA,2.0,9.0,John Patterson,Dontrelle Willis,-107.0,-101.0
+09/30/07,NYM,MIA,1.0,8.0,Tom Glavine,Dontrelle Willis,-206.0,188.0
+09/29/07,NYM,MIA,13.0,0.0,John Maine,Chris Seddon,-270.0,250.0
+09/28/07,NYM,MIA,4.0,7.0,Oliver Perez,Byung-Hyun Kim,-240.0,222.0
+09/23/07,MIA,NYM,6.0,7.0,Chris Seddon,John Maine,157.0,-165.0
+09/22/07,MIA,NYM,2.0,7.0,Byung-Hyun Kim,Oliver Perez,146.0,-154.0
+09/21/07,MIA,NYM,6.0,9.0,Scott Olsen,Pedro Martinez,148.0,-156.0
+09/20/07,MIA,NYM,8.0,7.0,Dontrelle Willis,Tom Glavine,136.0,-144.0
 09/16/07,NYM,PHI,6.0,10.0,Oliver Perez,Adam Eaton,-167.0,159.0
 09/15/07,NYM,PHI,3.0,5.0,Pedro Martinez,Kyle Lohse,-146.0,138.0
 09/14/07,NYM,PHI,2.0,3.0,Tom Glavine,Jamie Moyer,-156.0,148.0
@@ -2358,9 +2357,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/29/07,PHI,NYM,3.0,2.0,Jamie Moyer,Oliver Perez,122.0,-130.0
 08/28/07,PHI,NYM,4.0,2.0,Adam Eaton,Tom Glavine,112.0,-120.0
 08/27/07,PHI,NYM,9.0,2.0,J.D. Durbin,Brian Lawrence,-113.0,105.0
-08/12/07,NYM,MIA,10.0,4.0,Oliver Perez,Rick van den Hurk,-235.0,217
-08/11/07,NYM,MIA,5.0,7.0,Tom Glavine,Scott Olsen,-166.0,158
-08/10/07,NYM,MIA,3.0,4.0,Brian Lawrence,Daniel Barone,-150.0,142
+08/12/07,NYM,MIA,10.0,4.0,Oliver Perez,Rick van den Hurk,-235.0,217.0
+08/11/07,NYM,MIA,5.0,7.0,Tom Glavine,Scott Olsen,-166.0,158.0
+08/10/07,NYM,MIA,3.0,4.0,Brian Lawrence,Daniel Barone,-150.0,142.0
 08/05/07,CHC,NYM,3.0,8.0,Jason Marquis,Tom Glavine,-112.0,104.0
 08/04/07,CHC,NYM,6.0,2.0,Ted Lilly,John Maine,-106.0,-102.0
 08/03/07,CHC,NYM,2.0,6.0,Carlos Zambrano,Orlando Hernandez,-139.0,131.0
@@ -2377,9 +2376,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/07/07,NYM,PHI,3.0,6.0,John Maine,Cole Hamels,-111.0,103.0
 06/06/07,NYM,PHI,2.0,4.0,Orlando Hernandez,Adam Eaton,-167.0,159.0
 06/05/07,NYM,PHI,2.0,4.0,Tom Glavine,Jamie Moyer,-157.0,149.0
-05/27/07,MIA,NYM,4.0,6.0,Scott Olsen,Jorge Sosa,132,-140.0
-05/26/07,MIA,NYM,2.0,7.0,Wes Obermueller,John Maine,144,-152.0
-05/25/07,MIA,NYM,2.0,6.0,Sergio Mitre,Orlando Hernandez,117,-125.0
+05/27/07,MIA,NYM,4.0,6.0,Scott Olsen,Jorge Sosa,132.0,-140.0
+05/26/07,MIA,NYM,2.0,7.0,Wes Obermueller,John Maine,144.0,-152.0
+05/25/07,MIA,NYM,2.0,6.0,Sergio Mitre,Orlando Hernandez,117.0,-125.0
 05/20/07,NYM,NYY,2.0,6.0,John Maine,Tyler Clippard,-134.0,126.0
 05/19/07,NYM,NYY,10.0,7.0,Tom Glavine,Darrell Rasner,-119.0,111.0
 05/18/07,NYM,NYY,3.0,2.0,Oliver Perez,Andy Pettitte,105.0,-113.0
@@ -2390,24 +2389,24 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 05/13/07,NYM,MIL,9.0,1.0,Oliver Perez,Chris Capuano,-115.0,107.0
 05/12/07,NYM,MIL,3.0,12.0,Mike Pelfrey,Ben Sheets,114.0,-122.0
 05/11/07,NYM,MIL,5.0,4.0,Jorge Sosa,Jeff Suppan,-125.0,117.0
-05/02/07,NYM,MIA,6.0,3.0,Oliver Perez,Anibal Sanchez,-168.0,160
-05/01/07,NYM,MIA,2.0,5.0,Mike Pelfrey,Ricky Nolasco,-153.0,145
-04/30/07,NYM,MIA,6.0,9.0,Chan Ho Park,Scott Olsen,-139.0,131
-04/19/07,MIA,NYM,3.0,11.0,Rick van den Hurk,Orlando Hernandez,131,-139.0
-04/18/07,MIA,NYM,2.0,9.0,Dontrelle Willis,John Maine,-113,105.0
+05/02/07,NYM,MIA,6.0,3.0,Oliver Perez,Anibal Sanchez,-168.0,160.0
+05/01/07,NYM,MIA,2.0,5.0,Mike Pelfrey,Ricky Nolasco,-153.0,145.0
+04/30/07,NYM,MIA,6.0,9.0,Chan Ho Park,Scott Olsen,-139.0,131.0
+04/19/07,MIA,NYM,3.0,11.0,Rick van den Hurk,Orlando Hernandez,131.0,-139.0
+04/18/07,MIA,NYM,2.0,9.0,Dontrelle Willis,John Maine,-113.0,105.0
 04/17/07,PHI,NYM,1.0,8.0,Freddy Garcia,Tom Glavine,-106.0,-102.0
 04/12/07,NYM,PHI,5.0,3.0,Tom Glavine,Jamie Moyer,-147.0,139.0
 04/11/07,NYM,PHI,2.0,5.0,Oliver Perez,Adam Eaton,-144.0,136.0
 04/09/07,NYM,PHI,11.0,5.0,John Maine,Cole Hamels,-123.0,115.0
-09/09/07,PHI,MIA,8.0,5.0,Jamie Moyer,Dontrelle Willis,-127.0,119
-09/08/07,PHI,MIA,9.0,1.0,John Ennis,Rick van den Hurk,-174.0,166
-09/07/07,PHI,MIA,3.0,6.0,J.D. Durbin,Byung-Hyun Kim,-155.0,147
-09/02/07,MIA,PHI,7.0,6.0,Scott Olsen,Adam Eaton,106,-114.0
-09/01/07,MIA,PHI,12.0,6.0,Byung-Hyun Kim,J.D. Durbin,117,-125.0
-08/31/07,MIA,PHI,2.0,9.0,Sergio Mitre,Kyle Kendrick,110,-118.0
-08/09/07,PHI,MIA,2.0,4.0,Kyle Kendrick,Sergio Mitre,-139.0,131
-08/08/07,PHI,MIA,6.0,4.0,Kyle Lohse,Dontrelle Willis,-120.0,112
-08/07/07,PHI,MIA,11.0,1.0,Jamie Moyer,Rick van den Hurk,-179.0,171
+09/09/07,PHI,MIA,8.0,5.0,Jamie Moyer,Dontrelle Willis,-127.0,119.0
+09/08/07,PHI,MIA,9.0,1.0,John Ennis,Rick van den Hurk,-174.0,166.0
+09/07/07,PHI,MIA,3.0,6.0,J.D. Durbin,Byung-Hyun Kim,-155.0,147.0
+09/02/07,MIA,PHI,7.0,6.0,Scott Olsen,Adam Eaton,106.0,-114.0
+09/01/07,MIA,PHI,12.0,6.0,Byung-Hyun Kim,J.D. Durbin,117.0,-125.0
+08/31/07,MIA,PHI,2.0,9.0,Sergio Mitre,Kyle Kendrick,110.0,-118.0
+08/09/07,PHI,MIA,2.0,4.0,Kyle Kendrick,Sergio Mitre,-139.0,131.0
+08/08/07,PHI,MIA,6.0,4.0,Kyle Lohse,Dontrelle Willis,-120.0,112.0
+08/07/07,PHI,MIA,11.0,1.0,Jamie Moyer,Rick van den Hurk,-179.0,171.0
 08/05/07,MIL,PHI,6.0,8.0,Jeff Suppan,Adam Eaton,-115.0,107.0
 08/04/07,MIL,PHI,6.0,5.0,David Bush,Cole Hamels,116.0,-124.0
 08/03/07,MIL,PHI,2.0,1.0,Yovani Gallardo,Kyle Kendrick,-152.0,144.0
@@ -2415,9 +2414,9 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 08/01/07,CHC,PHI,5.0,4.0,Rich Hill,Jamie Moyer,-142.0,134.0
 07/31/07,CHC,PHI,7.0,3.0,Jason Marquis,Adam Eaton,-129.0,121.0
 07/30/07,CHC,PHI,1.0,4.0,Ted Lilly,Cole Hamels,-109.0,101.0
-05/24/07,MIA,PHI,5.0,4.0,Dontrelle Willis,Jon Lieber,-150,142.0
-05/23/07,MIA,PHI,7.0,8.0,Byung-Hyun Kim,Freddy Garcia,113,-121.0
-05/22/07,MIA,PHI,5.0,3.0,Scott Olsen,Cole Hamels,128,-136.0
+05/24/07,MIA,PHI,5.0,4.0,Dontrelle Willis,Jon Lieber,-150.0,142.0
+05/23/07,MIA,PHI,7.0,8.0,Byung-Hyun Kim,Freddy Garcia,113.0,-121.0
+05/22/07,MIA,PHI,5.0,3.0,Scott Olsen,Cole Hamels,128.0,-136.0
 05/17/07,PHI,MIL,2.0,3.0,Freddy Garcia,Ben Sheets,121.0,-129.0
 05/16/07,PHI,MIL,6.0,2.0,Cole Hamels,Jeff Suppan,-141.0,133.0
 05/15/07,PHI,MIL,4.0,3.0,Adam Eaton,Claudio Vargas,-103.0,-105.0
@@ -2425,12 +2424,12 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 05/13/07,PHI,CHC,1.0,4.0,Jon Lieber,Ted Lilly,-101.0,-107.0
 05/12/07,PHI,CHC,11.0,7.0,Freddy Garcia,Angel Guzman,-135.0,127.0
 05/11/07,PHI,CHC,7.0,2.0,Cole Hamels,Rich Hill,-105.0,-103.0
-04/29/07,PHI,MIA,6.0,1.0,Jamie Moyer,Wes Obermueller,-167.0,159
-04/28/07,PHI,MIA,5.0,11.0,Adam Eaton,Dontrelle Willis,101.0,-109
-04/27/07,PHI,MIA,6.0,5.0,Freddy Garcia,Anibal Sanchez,-149.0,141
-04/08/07,MIA,PHI,6.0,4.0,Scott Olsen,Zack Segovia,-115,107.0
-04/07/07,MIA,PHI,8.0,5.0,Dontrelle Willis,Brett Myers,-103,-105.0
-04/06/07,MIA,PHI,2.0,8.0,Sergio Mitre,Jamie Moyer,102,-110.0
+04/29/07,PHI,MIA,6.0,1.0,Jamie Moyer,Wes Obermueller,-167.0,159.0
+04/28/07,PHI,MIA,5.0,11.0,Adam Eaton,Dontrelle Willis,101.0,-109.0
+04/27/07,PHI,MIA,6.0,5.0,Freddy Garcia,Anibal Sanchez,-149.0,141.0
+04/08/07,MIA,PHI,6.0,4.0,Scott Olsen,Zack Segovia,-115.0,107.0
+04/07/07,MIA,PHI,8.0,5.0,Dontrelle Willis,Brett Myers,-103.0,-105.0
+04/06/07,MIA,PHI,2.0,8.0,Sergio Mitre,Jamie Moyer,102.0,-110.0
 08/30/07,CHC,MIL,5.0,4.0,Ted Lilly,Manny Parra,-147.0,139.0
 08/29/07,CHC,MIL,1.0,6.0,Carlos Zambrano,Ben Sheets,-139.0,131.0
 08/28/07,CHC,MIL,5.0,3.0,Rich Hill,Jeff Suppan,-162.0,154.0
@@ -2440,22 +2439,22 @@ date,homeTeam,awayTeam,homeScore,awayScore,homePitcher,awayPitcher,homeLine,away
 06/06/07,MIL,CHC,2.0,6.0,Jeff Suppan,Carlos Zambrano,-103.0,-105.0
 06/05/07,MIL,CHC,7.0,5.0,Claudio Vargas,Ted Lilly,106.0,-114.0
 06/04/07,MIL,CHC,2.0,7.0,David Bush,Jason Marquis,-122.0,114.0
-06/03/07,MIL,MIA,3.0,0.0,Ben Sheets,Dontrelle Willis,-152.0,144
-06/02/07,MIL,MIA,2.0,5.0,Chris Capuano,Byung-Hyun Kim,-158.0,150
-06/01/07,MIL,MIA,8.0,5.0,Jeff Suppan,Scott Olsen,-140.0,132
-05/31/07,MIL,MIA,4.0,3.0,Claudio Vargas,Wes Obermueller,-162.0,154
+06/03/07,MIL,MIA,3.0,0.0,Ben Sheets,Dontrelle Willis,-152.0,144.0
+06/02/07,MIL,MIA,2.0,5.0,Chris Capuano,Byung-Hyun Kim,-158.0,150.0
+06/01/07,MIL,MIA,8.0,5.0,Jeff Suppan,Scott Olsen,-140.0,132.0
+05/31/07,MIL,MIA,4.0,3.0,Claudio Vargas,Wes Obermueller,-162.0,154.0
 04/25/07,CHC,MIL,9.0,3.0,Ted Lilly,Ben Sheets,-111.0,103.0
 04/24/07,CHC,MIL,1.0,4.0,Rich Hill,Jeff Suppan,-172.0,164.0
 04/23/07,CHC,MIL,4.0,5.0,Carlos Zambrano,Claudio Vargas,-152.0,144.0
-04/11/07,MIA,MIL,2.0,5.0,Sergio Mitre,David Bush,-109,101.0
-04/10/07,MIA,MIL,2.0,3.0,Rick van den Hurk,Claudio Vargas,-112,104.0
-04/09/07,MIA,MIL,5.0,3.0,Anibal Sanchez,Jeff Suppan,-119,111.0
+04/11/07,MIA,MIL,2.0,5.0,Sergio Mitre,David Bush,-109.0,101.0
+04/10/07,MIA,MIL,2.0,3.0,Rick van den Hurk,Claudio Vargas,-112.0,104.0
+04/09/07,MIA,MIL,5.0,3.0,Anibal Sanchez,Jeff Suppan,-119.0,111.0
 04/08/07,MIL,CHC,9.0,4.0,Chris Capuano,Wade Miller,-109.0,101.0
 04/07/07,MIL,CHC,3.0,6.0,Ben Sheets,Carlos Zambrano,-115.0,107.0
 04/06/07,MIL,CHC,3.0,9.0,David Bush,Rich Hill,-110.0,102.0
-09/27/07,MIA,CHC,6.0,4.0,Scott Olsen,Steve Trachsel,117,-125.0
-09/26/07,MIA,CHC,7.0,4.0,Daniel Barone,Jason Marquis,134,-142.0
-09/25/07,MIA,CHC,4.0,2.0,Dontrelle Willis,Ted Lilly,126,-134.0
-05/30/07,CHC,MIA,0.0,9.0,Ted Lilly,Sergio Mitre,-134.0,126
-05/29/07,CHC,MIA,4.0,9.0,Jason Marquis,Dontrelle Willis,-127.0,119
-05/28/07,CHC,MIA,3.0,5.0,Sean Marshall,Byung-Hyun Kim,-152.0,144
+09/27/07,MIA,CHC,6.0,4.0,Scott Olsen,Steve Trachsel,117.0,-125.0
+09/26/07,MIA,CHC,7.0,4.0,Daniel Barone,Jason Marquis,134.0,-142.0
+09/25/07,MIA,CHC,4.0,2.0,Dontrelle Willis,Ted Lilly,126.0,-134.0
+05/30/07,CHC,MIA,0.0,9.0,Ted Lilly,Sergio Mitre,-134.0,126.0
+05/29/07,CHC,MIA,4.0,9.0,Jason Marquis,Dontrelle Willis,-127.0,119.0
+05/28/07,CHC,MIA,3.0,5.0,Sean Marshall,Byung-Hyun Kim,-152.0,144.0
